@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240.816" height="192.24" viewBox="0 0 240.816 192.24">
+  <g id="Group_138" data-name="Group 138" transform="translate(0.354)">
+    <ellipse id="Ellipse_1" data-name="Ellipse 1" cx="18.597" cy="18.938" rx="18.597" ry="18.938" transform="translate(59.911 32.073)" fill="#4caf4f"/>
+    <ellipse id="Ellipse_2" data-name="Ellipse 2" cx="21.253" cy="21.253" rx="21.253" ry="21.253" transform="translate(117.549 149.735)" fill="#ad5ea3"/>
+    <ellipse id="Ellipse_3" data-name="Ellipse 3" cx="64.241" cy="65.207" rx="64.241" ry="65.207" transform="translate(100.161 41.539)" fill="#fff"/>
+    <ellipse id="Ellipse_4" data-name="Ellipse 4" cx="59.595" cy="60.688" rx="59.595" ry="60.688" transform="translate(104.813 45.331)" fill="#f9b715"/>
+    <ellipse id="Ellipse_5" data-name="Ellipse 5" cx="37.675" cy="38.641" rx="37.675" ry="38.641" transform="translate(139.768 0)" fill="#fff"/>
+    <ellipse id="Ellipse_6" data-name="Ellipse 6" cx="33.811" cy="33.811" rx="33.811" ry="33.811" transform="translate(143.632 4.83)" fill="#4c9bd2"/>
+    <text id="steen" transform="translate(109.462 112.936)" font-size="44" font-family="Montserrat-ExtraBold, Montserrat" font-weight="800"><tspan x="0" y="0">steen</tspan></text>
+    <text id="stap" transform="translate(-0.354 113.536)" font-size="45" font-family="Montserrat-Thin, Montserrat" font-weight="200"><tspan x="0" y="0">stap</tspan></text>
+  </g>
+</svg>
